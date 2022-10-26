@@ -18,8 +18,6 @@ int main(){
 
     //string
     std::string halqString = "moment";
-
     
-
     return 0;
 }
